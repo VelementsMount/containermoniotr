@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/containermoniotr.iml" filepath="$PROJECT_DIR$/.idea/modules/containermoniotr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/containermoniotr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/containermoniotr_main.iml" group="containermoniotr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/containermoniotr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/containermoniotr_test.iml" group="containermoniotr" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2prometheus/springboot2prometheus.iml" filepath="$PROJECT_DIR$/springboot2prometheus/springboot2prometheus.iml" group="springboot2prometheus" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot2prometheus/springboot2prometheus_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot2prometheus/springboot2prometheus_main.iml" group="springboot2prometheus" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot2prometheus/springboot2prometheus_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot2prometheus/springboot2prometheus_test.iml" group="springboot2prometheus" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.prometheus:simpleclient_pushgateway:0.0.26">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.prometheus/simpleclient_pushgateway/0.0.26/ec7d16b516af38639c83d02f2bd1521c12cdf1cb/simpleclient_pushgateway-0.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.prometheus/simpleclient_pushgateway/0.0.26/22d8068b0827559c496b638d14872c1fb65968e4/simpleclient_pushgateway-0.0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
